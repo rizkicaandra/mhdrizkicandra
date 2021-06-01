@@ -26,7 +26,7 @@ export default function Repository(){
 
   return(
     <>
-      <div  className="container">
+      <div className="container mt-5">
         <div className="row">
         <table class="table table-bordered table-hover">
           <thead>
